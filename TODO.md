@@ -1,1 +1,1 @@
-aplicarle proxies a splash
+aplicarle proxies
